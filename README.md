@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 
-    git clone https://github.com/shahab897/domain-availability-api.git
+   git clone https://github.com/Ecoflitz/DomainXplorer-API.git
 
 2. Install the dependencies
 
