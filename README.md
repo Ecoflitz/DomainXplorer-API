@@ -1,4 +1,4 @@
-# Domain Availability API
+# DomainXplorer API
 
 A simple API that checks the availability of a domain name using the whois package.
 
